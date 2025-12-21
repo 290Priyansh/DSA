@@ -1,43 +1,54 @@
-# Data Structures & Algorithms  (Daily Practice)
+# Data Structures & Algorithms (Practice Repository)
 
-This repository documents my **daily practice of Data Structures and Algorithms**, with a focus on consistency, clarity, and conceptual understanding.
+This repository documents my **ongoing practice of Data Structures and Algorithms**, with an emphasis on **problem-solving fundamentals, clarity of thought, and consistency**.
 
-Instead of uploading all solved problems at once, I add **one problem per day**, starting with **Arrays**, and gradually covering other core DSA topics.  
-This approach helps reinforce patterns, improve problem-solving depth, and build long-term retention.
+I began practicing DSA on LeetCode prior to creating this repository.  
+This GitHub repository was started later as a place to **organize and track solutions**, including both **new problems and selected solutions from earlier practice**.
 
----
-
-## 📅 Learning Strategy
-
-- One problem uploaded per day
-- Problems grouped by topic/pattern
-- Emphasis on understanding over volume
-- Regular refactoring as concepts mature
+As a result, the order of problems in this repository does **not strictly reflect the chronological order of learning or difficulty**.
 
 ---
 
-## 🧩 Topics (in progress)
+## 📅 Practice Approach
 
-- Arrays 
-- Strings
-- Two Pointers
-- Sliding Window
-- Hashing
-- Stack & Queue
-- Trees (DFS / BFS)
-- Recursion & Backtracking
-- Binary Search
-- Dynamic Programming
+- Solutions are added incrementally over time
+- Includes a mix of newly solved problems and previously solved ones
+- Focus is on understanding and correctness rather than upload order
+- Code may be revisited and refined as concepts mature
 
-> Topics will be unlocked progressively as part of structured learning.
+---
+
+## 🧩 Problem Coverage
+
+Problems in this repository span multiple core DSA areas, such as:
+
+- Arrays & Strings  
+- Hashing  
+- Two Pointers / Sliding Window  
+- Stack & Queue  
+- Trees (DFS / BFS)  
+- Recursion & Backtracking  
+- Binary Search  
+- Dynamic Programming  
+
+Problems are **not strictly organized by topic, difficulty, or upload sequence**, as the repository reflects real practice rather than a guided course structure.
 
 ---
 
 ## 🧠 Solution Philosophy
 
 Each solution focuses on:
-- Identifying the underlying pattern
-- Writing clean, readable code
-- Handling edge cases explicitly
+- Correct interpretation of the problem statement
+- Identifying the key idea or pattern
+- Writing clear and maintainable code
+- Explicit handling of edge cases
+- Reasonable time and space complexity
 
+---
 
+## 📌 Note
+
+This repository is maintained primarily for:
+- Tracking personal problem-solving work
+- Sharing solutions with interviewers
+- Reflecting genuine learning progression rather than curated presentation
