@@ -1,4 +1,4 @@
-# Data Structures & Algorithms (Practice Repository)
+# Data Structures & Algorithms
 
 This repository documents my **ongoing practice of Data Structures and Algorithms**, with an emphasis on **problem-solving fundamentals, clarity of thought, and consistency**.
 
